@@ -47,7 +47,4 @@ The algorithm relies on a user-inputted "map" of the camera network (showing rel
 
 The user can "place" cameras in placement mode, then indicate the adjacency through the "connections" in connection mode.
 
-## Authors
 
-- [Arvind Ganesh](github.com/arvganesh)
-- [Colin Hurley](github.com/colHur)
